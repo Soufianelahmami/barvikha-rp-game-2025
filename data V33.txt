@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Barvikha RP Game 2023 is set in a meticulously crafted fantasy world, brimming with vibrant landscapes, mythical creatures, and intricate lore","photo2":"https://iili.io/HrAhwhP.jpg"},
+  {"desc3":" Players are transported to the kingdom of Barvikha, a land filled with magic and wonder, where they can create their own characters and embark on epic quests.","photo3":"https://iili.io/HrAhjTB.jpg"},
+  {"desc4":"The game's storyline unfolds in a time of great turmoil, as ancient prophecies foretell the rise of a dark force threatening to engulf the kingdom","photo4":"https://iili.io/HrAhWkQ.webp"},
+  {"desc5":" Players must align themselves with various factions, make difficult choices, and navigate a complex web of political intrigue to bring about peace and restore balance to Barvikha.","photo5":"https://iili.io/HrAhXpV.jpg"},
+  {"descd":"Barvikha RP Game 2023 offers an extensive character creation system, allowing players to design unique avatars that reflect their individuality","photod":"https://iili.io/HrAhNQ1.jpg"}
    ]
  
 }
